@@ -41,3 +41,6 @@ This project was a valuable learning experience. I gained hands‑on knowledge o
 
 Conclusion
 The Chat Application project stands as a practical example of how full stack development can be applied to create real‑world solutions. It not only enhanced my technical expertise but also prepared me for future challenges in web development. Under the guidance of my mentor, Neela Santosh Kumar, I was able to successfully complete the project within the internship period, meeting all deliverables and learning outcomes.
+
+
+<img width="2110" height="1251" alt="Image" src="https://github.com/user-attachments/assets/670e31fb-5d4f-4b85-bf16-664d1c695398" />
